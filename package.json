@@ -2,7 +2,7 @@
   "name": "address-book",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://inthehouse.github.io",
+  "homepage": "https://github.com/inthehouse.github.io",
   "dependencies": {
     "@testing-library/react": "^13.4.0",
     "cra-template": "1.2.0",
